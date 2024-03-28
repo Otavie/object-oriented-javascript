@@ -10,6 +10,8 @@ var userOne = {
     }
 }
 
-// console.log(userOne.name)
-// console.log(userOne.login())
-// console.log(userOne.logout())
+// Add New Property to userOne
+userOne.age = 25
+
+console.log(userOne)
+
