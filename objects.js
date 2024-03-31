@@ -9,7 +9,3 @@ var userOne = {
         console.log(this.email,' has logged out!')
     }
 }
-
-// console.log(userOne.name)
-// console.log(userOne.login())
-// console.log(userOne.logout())
