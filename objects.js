@@ -1,4 +1,4 @@
-// Method Chaining
+// Class Inheritance
 
 class User {
     constructor(email, name) {
