@@ -12,6 +12,7 @@ var userOne = {
 
 // Add New Property to userOne
 userOne.age = 25
+userOne.address = "Lagos"
 
 console.log(userOne)
 
