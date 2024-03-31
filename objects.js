@@ -1,3 +1,5 @@
+// Method Chaining
+
 class User {
     constructor(email, name) {
         this.email = email;
