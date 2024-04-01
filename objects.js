@@ -1,4 +1,4 @@
-// Constructor Under the Hood
+// Prototype
 function User(email, name) {
     this.email = email;
     this.name = name;
