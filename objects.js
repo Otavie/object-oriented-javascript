@@ -1,4 +1,4 @@
-// Class Inheritance
+// Constructor Under the Hood
 
 class User {
     constructor(email, name) {
